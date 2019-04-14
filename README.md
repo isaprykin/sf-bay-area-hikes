@@ -8,3 +8,4 @@ A list of go-to hikes and walks outside in SF Bay Area.  Contributions welcome.
  * Stanford Dish in Palo Alto
  * Mori Point in Pacifica
  * Purisima Creek Redwoods Open Space Preserve
+ * Huddart Park

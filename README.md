@@ -3,6 +3,8 @@ A list of go-to hikes and walks outside in SF Bay Area.  Contributions welcome.
 # San Francisco
  * The Lover's Lane in Presidio
  * Batteries to Bluffs Trail
+ * Cataract Falls Trail
+ * Dipsea Trail
 
 # South Bay
  * Stanford Dish in Palo Alto

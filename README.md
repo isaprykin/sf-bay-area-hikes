@@ -5,6 +5,9 @@ A list of go-to hikes and walks outside in SF Bay Area.  Contributions welcome.
  * Batteries to Bluffs Trail
  * Cataract Falls Trail
  * Dipsea Trail
+ 
+# East Bay
+ * Tres Sendas
 
 # South Bay
  * Stanford Dish in Palo Alto
